@@ -168,7 +168,7 @@ encarols.py      # Single-file application — compressor, decompressor, and GUI
 ## 👨‍💻 Developer
 
 **Tarun**  
-*Original engine design by Eaevox*
+*Original engine design by Evyrean*
 
 ---
 
