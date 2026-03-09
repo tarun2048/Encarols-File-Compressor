@@ -1,7 +1,7 @@
 
 """
 ╔══════════════════════════════════════════════════════════════════════╗
-║  ENCAROLS  v5.0  —  Adaptive Dual-Engine Compressor + GUI  By Eaevox ║
+║  ENCAROLS v5.0  —  Adaptive Dual-Engine Compressor + GUI  By Evyrean ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  ENGINE A  (text files)                                              ║
 ║    RLE1 → BWT → MTF → RUNA/RUNB → Multi-table Huffman                ║
@@ -1017,7 +1017,7 @@ def launch_gui(port:int=8765)->None:
 def _banner()->None:
     print("""
 ╔════════════════════════════════════════════════════════════════╗
-║  ENCAROLS  v5.0  —  Adaptive Dual-Engine Compressor  By Eaevox ║
+║  ENCAROLS v5.0  —  Adaptive Dual-Engine Compressor  By Evyrean ║
 ║  Engine A: BWT+MTF+RUNA+MultiHuffman  (text files)             ║
 ║  Engine B: LZ77+Huffman               (binary files)           ║
 ╚════════════════════════════════════════════════════════════════╝""")
